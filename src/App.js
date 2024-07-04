@@ -103,7 +103,7 @@ function App() {
             <label htmlFor="deedNumber" className="block text-gray-300 mb-2">Deed Number</label>
             <input
               type="text"
-              className="w-full p-2 border border-gray-300 rounded-lg"
+              className="w-full p-2 border border-grhttps://ziyadrw.github.io/DEEDcheck/ay-300 rounded-lg"
               id="deedNumber"
               value={deedNumber}
               onChange={(e) => setDeedNumber(e.target.value)}
@@ -141,3 +141,4 @@ function App() {
 }
 
 export default App;
+ 
