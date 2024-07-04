@@ -1,3 +1,32 @@
+.backdrop-container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px); /* Apply the backdrop blur */
+}
+.glass-container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+#main{
+  background: linear-gradient(to top, rgb(1, 1, 4), rgb(1, 7, 54), rgb(1, 12, 93), rgb(255, 255, 255));
+}
+
+#sbtn{
+  background-color: rgb(16, 26, 104);
+}
 .App {
   text-align: center;
 }
