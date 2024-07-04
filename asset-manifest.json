@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DEEdcheck/static/css/main.ba34a608.css",
+    "main.js": "/DEEdcheck/static/js/main.1e75c873.js",
+    "static/js/453.69f3745b.chunk.js": "/DEEdcheck/static/js/453.69f3745b.chunk.js",
+    "index.html": "/DEEdcheck/index.html",
+    "main.ba34a608.css.map": "/DEEdcheck/static/css/main.ba34a608.css.map",
+    "main.1e75c873.js.map": "/DEEdcheck/static/js/main.1e75c873.js.map",
+    "453.69f3745b.chunk.js.map": "/DEEdcheck/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba34a608.css",
+    "static/js/main.1e75c873.js"
+  ]
+}
