@@ -1,6 +1,6 @@
 # Abu Saad (Real-Estate Evaluator Agent)
 
-Abu Saad is a real estate asset valuation tool that provides an estimated price for a property using only the **Deed Number** and **National ID (NID)**. It integrates various data sources and APIs to offer precise estimates, making it particularly useful for FinTech companies to automate the process of verifying whether an individual is a "Qualified Investor" by checking if their assets are worth more than 3 million SAR.
+Abu Saad is a real estate asset valuation tool that provides an estimated price for a property using only the **Deed Number** and **National ID (NID)**. It integrates various data sources and APIs to offer precise estimates, making it particularly useful for FinTech companies to automate the process of verifying whether an individual is a **"Qualified Investor"** by checking if their assets are worth more than 3 million SAR.
 
 ## Features
 - **Asset Valuation**: Provides real estate valuation using deed numbers and national IDs.
